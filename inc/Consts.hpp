@@ -1,8 +1,8 @@
 #ifndef __CONSTS_HPP__
 #define __CONSTS_HPP__
 
-extern int* GIDS_COLORS;
-extern int SELECTOR_OFFSET;
+const int GIDS_COLORS[] = {15, 10, 12};
+const int SELECTOR_OFFSET = 8;
 
 const int DEFAULT_GROUP = 0;
 const int UNIT_GROUP = 1;
