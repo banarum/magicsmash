@@ -1,4 +1,4 @@
-# magicsmash
+# Magic Smash
 ASCII local (one PC) multiplayer game written on C++ for Windows console
 
 Just another university project for my CS studies
