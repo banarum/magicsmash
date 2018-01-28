@@ -27,7 +27,6 @@ class Arena{
 		vector<Object*> getObjectsInRange(int x, int range, int type=-1);
 		ActionObject* aObjOnHold;
 		void turn();
-		void enterActionObjectAddingMode(ActionObject object);
 		vector<Unit*> getUnitsInRange(int x, int range);
 		vector<Unit*> getUnitsByGid(int gid);
 		void removeUnit(Unit* unit);
